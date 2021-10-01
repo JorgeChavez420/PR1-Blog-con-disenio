@@ -1,0 +1,300 @@
+.nav-enlace{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 2px solid white;
+}
+.PyR{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 2px solid white;
+}
+.PyR:hover{
+    background-color: orchid;
+}    
+.Musica{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 2px solid white;
+}
+.Musica:hover{
+    background-color: orchid;
+}    
+.HistoriaVap{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 2px solid white;
+}
+.HistoriaVap:hover{
+    background-color: orchid;
+}
+.Index{
+    background-color: magenta;
+    color: rgb(126, 245, 233);
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 2px solid white;
+}
+.Index:hover{
+    background-color: orchid;
+}
+.nav-enlace:hover{
+    background-color: orchid;
+}
+
+body{
+    background-color: black;
+}    
+h4{
+    color: darkmagenta;   
+}  
+.Contenedor img{
+    position: absolute;
+    bottom: -100px;
+    right: 1100px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}  
+.Contenedor1 img{
+    position: absolute;
+    bottom: -100px;
+    left: 1100px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}  
+.Contenedor2 img{
+    position: absolute;
+    bottom: -100px;
+    left: 670px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}  
+.Contenedor3 img{
+    position: absolute;
+    bottom: -450px;
+    left: 670px;
+    padding: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}
+.Styleletters{
+    color: turquoise;
+    position: absolute;
+    bottom: -150px;
+    right: 1142px;    
+}.Styleletters1{
+    color: turquoise;
+    position: absolute;
+    bottom: -150px;
+    left: 1148px;       
+}
+.Styleletters2{
+    color: turquoise;
+    position: absolute;
+    bottom: -150px;
+    left: 745px;          
+}
+.Styleletters3{
+    color: turquoise;
+    position: absolute;
+    bottom: -500px;
+    left: 721px; 
+}
+
+.Marca{
+    color: turquoise;
+    position: absolute;
+    bottom: -750px;
+    left: 600px;         
+}
+.Contacto{
+    color: turquoise;
+    position: absolute;
+    bottom: -700px;
+    left: 5px;             
+}
+.Comentarios{
+    color: turquoise;
+    position: absolute;
+    bottom: -550px;
+    left: 5px;    
+}
+.LetrasGaleria{
+    color: magenta;
+    position: absolute;
+    bottom: 220px;
+    left: 655px;       
+}
+.Barra{
+    position: absolute;
+    bottom: 475px;
+    left: 325px;       
+}
+.Saludo{
+    color: #A820FF;
+    position: absolute;
+    bottom: 485px;
+    left: 600px;        
+}  
+.Texto{
+    color: turquoise;
+    position: absolute;
+    bottom: 350px;
+    left: 0px;
+}     
+.Imagen{
+    position: absolute;
+    bottom: 542px;
+    left: 630px;       
+}
+.Imagen2{
+    position: absolute;
+    bottom: 500px;
+    left: 75px;
+    border: 2px solid white ;     
+}
+.Imagen3{
+    position: absolute;
+    bottom: 500px;
+    right: 75px;
+    border: 2px solid white ;     
+}
+.Imagen4{
+    position: absolute;
+    bottom: -500px;
+    left: 600px;
+    border: 7px solid white ;
+}    
+.LetrasHistoria{
+    color: white;
+    position: absolute;
+    bottom: 300px;
+    left: 602px;   
+}
+.TextoHistoria{
+    color: magenta;
+    position: absolute;
+    bottom: 125px;
+    left: 0px;   
+}
+.LetrasDatos{
+    color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 625px;   
+}
+.TextoOrigen{
+    color: magenta;
+    position: absolute;
+    bottom: -75px;
+    left: 0px;   
+}
+.SaludoLetras{
+    color: #A820FF;
+    position: absolute;
+    bottom: 485px;
+    left: 645px;        
+}
+.LetrasMusica{
+    color: white;
+    position: absolute;
+    bottom: 300px;
+    left: 500px;
+}
+.TextoMusica{
+    color: magenta;
+    position: absolute;
+    bottom: 180px;
+    left: 0px;   
+}
+.TextoCanciones{
+    color: magenta;
+    position: absolute;
+    bottom: -75px;
+    left: 0px;   
+}
+.LetrasCanciones{
+    color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 575px; 
+}
+.Contenedor4{
+    position: absolute;
+    bottom: -100px;
+    right: 1075px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}
+.Contenedor5{
+    position: absolute;
+    bottom: -100px;
+    left: 1100px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}
+.Contenedor6{
+    position: absolute;
+    bottom: -100px;
+    left: 670px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}
+.Styleletters6{                              
+    color: turquoise;
+    position: absolute;
+    bottom: -150px;
+    left: 700px;
+}
+.Contenedor7{
+    position: absolute;
+    bottom: -450px;
+    left: 700px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid orchid ;
+}
+.LetrasPreguntas{
+    color: white;
+    position: absolute;
+    bottom: 305px;
+    left: 515px; 
+}
+.TextoPreguntas{
+    color: magenta;
+    position: absolute;
+    bottom: 145px;
+    left: 0px;   
+}
+.LetrasPreguntas2{
+    color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 575px;
+}
+.Imagen5{
+    position: absolute;
+    bottom: -500px;
+    left: 350px;
+    border: 7px solid white ;
+} 
+.Imagen6{
+    position: absolute;
+    bottom: -500px;
+    left: 850px;
+    border: 7px solid white ;
+}                       
